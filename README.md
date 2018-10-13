@@ -14,4 +14,4 @@ If you want to see the dataset, follow these steps. However, you can't use au fi
 ```python3 xception.py```.
 Then you will get the AUC and the Average Precision
 
-- Worked as a team project with Doeun Kim
+- Worked as a team project with Doeun Kim (https://github.com/97dawn/music-genre-classification)
